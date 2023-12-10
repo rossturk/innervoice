@@ -6,17 +6,14 @@ pcre = {}
 libgcrypt = {}
 libevent = {}
 openssl = {}
-jemalloc = {}
 icu58 = {}
 gnumake = {}
-gcc-wrapper = {}
-cxx = {}
 coreutils = {}
 inetutils = {}
+jemalloc = {}
 vim = {}
 zlib = {}
 bison = {}
-strace = {}
 
 [vars]
 ICQ_DIR="$FLOX_ENV"
@@ -24,4 +21,5 @@ ICU_ROOT="$FLOX_ENV"
 OPENSSL_ROOT_DIR="$FLOX_ENV"
 ZLIB_ROOT="$FLOX_ENV"
 PCRE_ROOT="$FLOX_ENV"
+JEMALLOC_ROOT="$FLOX_ENV"
 

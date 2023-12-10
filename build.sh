@@ -9,6 +9,5 @@ cp -f local_options ./driver/src/
 
 cd build
 cmake ../driver -DPACKAGE_UIDS=OFF -DUSE_JEMALLOC=OFF -DPACKAGE_DB=OFF
-
-make install
+make -j8 install
 cd ..
