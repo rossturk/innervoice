@@ -6,7 +6,9 @@ pcre = {}
 libgcrypt = {}
 libevent = {}
 openssl = {}
-icu58 = {}
+gcc = {}
+icu = {}
+mariadb-connector-c = {}
 gnumake = {}
 coreutils = {}
 inetutils = {}
@@ -16,10 +18,8 @@ zlib = {}
 bison = {}
 
 [vars]
-ICQ_DIR="$FLOX_ENV"
 ICU_ROOT="$FLOX_ENV"
 OPENSSL_ROOT_DIR="$FLOX_ENV"
 ZLIB_ROOT="$FLOX_ENV"
 PCRE_ROOT="$FLOX_ENV"
-JEMALLOC_ROOT="$FLOX_ENV"
 
