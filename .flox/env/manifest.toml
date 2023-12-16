@@ -16,10 +16,12 @@ jemalloc = {}
 vim = {}
 zlib = {}
 bison = {}
+mysql-client = {}
 
 [vars]
 ICU_ROOT="$FLOX_ENV"
 OPENSSL_ROOT_DIR="$FLOX_ENV"
+MYSQL_ROOT="$FLOX_ENV"
 ZLIB_ROOT="$FLOX_ENV"
 PCRE_ROOT="$FLOX_ENV"
 
