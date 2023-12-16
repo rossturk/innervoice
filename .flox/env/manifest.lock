@@ -50,11 +50,11 @@
     }
   },
   "packages": {
-    "aarch64-darwin": {
+    "x86_64-linux": {
       "bison": {
         "attr-path": [
           "legacyPackages",
-          "aarch64-darwin",
+          "x86_64-linux",
           "bison"
         ],
         "info": {
@@ -81,7 +81,7 @@
       "cmake": {
         "attr-path": [
           "legacyPackages",
-          "aarch64-darwin",
+          "x86_64-linux",
           "cmake"
         ],
         "info": {
@@ -108,7 +108,7 @@
       "coreutils": {
         "attr-path": [
           "legacyPackages",
-          "aarch64-darwin",
+          "x86_64-linux",
           "coreutils"
         ],
         "info": {
@@ -135,7 +135,7 @@
       "gcc": {
         "attr-path": [
           "legacyPackages",
-          "aarch64-darwin",
+          "x86_64-linux",
           "gcc"
         ],
         "info": {
@@ -162,7 +162,7 @@
       "git": {
         "attr-path": [
           "legacyPackages",
-          "aarch64-darwin",
+          "x86_64-linux",
           "git"
         ],
         "info": {
@@ -189,7 +189,7 @@
       "gnumake": {
         "attr-path": [
           "legacyPackages",
-          "aarch64-darwin",
+          "x86_64-linux",
           "gnumake"
         ],
         "info": {
@@ -216,7 +216,7 @@
       "icu": {
         "attr-path": [
           "legacyPackages",
-          "aarch64-darwin",
+          "x86_64-linux",
           "icu"
         ],
         "info": {
@@ -243,7 +243,7 @@
       "inetutils": {
         "attr-path": [
           "legacyPackages",
-          "aarch64-darwin",
+          "x86_64-linux",
           "inetutils"
         ],
         "info": {
@@ -270,7 +270,7 @@
       "jemalloc": {
         "attr-path": [
           "legacyPackages",
-          "aarch64-darwin",
+          "x86_64-linux",
           "jemalloc"
         ],
         "info": {
@@ -297,7 +297,7 @@
       "libevent": {
         "attr-path": [
           "legacyPackages",
-          "aarch64-darwin",
+          "x86_64-linux",
           "libevent"
         ],
         "info": {
@@ -324,7 +324,7 @@
       "libgcrypt": {
         "attr-path": [
           "legacyPackages",
-          "aarch64-darwin",
+          "x86_64-linux",
           "libgcrypt"
         ],
         "info": {
@@ -351,7 +351,7 @@
       "mariadb-connector-c": {
         "attr-path": [
           "legacyPackages",
-          "aarch64-darwin",
+          "x86_64-linux",
           "mariadb-connector-c"
         ],
         "info": {
@@ -378,7 +378,7 @@
       "openssl": {
         "attr-path": [
           "legacyPackages",
-          "aarch64-darwin",
+          "x86_64-linux",
           "openssl"
         ],
         "info": {
@@ -405,7 +405,7 @@
       "pcre": {
         "attr-path": [
           "legacyPackages",
-          "aarch64-darwin",
+          "x86_64-linux",
           "pcre"
         ],
         "info": {
@@ -432,7 +432,7 @@
       "pkg-config": {
         "attr-path": [
           "legacyPackages",
-          "aarch64-darwin",
+          "x86_64-linux",
           "pkg-config"
         ],
         "info": {
@@ -459,7 +459,7 @@
       "vim": {
         "attr-path": [
           "legacyPackages",
-          "aarch64-darwin",
+          "x86_64-linux",
           "vim"
         ],
         "info": {
@@ -486,7 +486,7 @@
       "zlib": {
         "attr-path": [
           "legacyPackages",
-          "aarch64-darwin",
+          "x86_64-linux",
           "zlib"
         ],
         "info": {
